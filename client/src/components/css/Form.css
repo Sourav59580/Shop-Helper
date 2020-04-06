@@ -1,0 +1,15 @@
+input{
+    background: #ffffff;
+    box-shadow:  5px 5px 23px #e6e6e6, 
+             -5px -5px 23px #ffffff;
+             
+}
+button{
+    background: #ffffff;
+    box-shadow:  5px 5px 23px #e6e6e6, 
+             -5px -5px 23px #ffffff;
+             
+}
+input:focus, textarea:focus, select:focus{
+    outline: none !important;
+}

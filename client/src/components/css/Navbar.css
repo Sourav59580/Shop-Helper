@@ -1,0 +1,12 @@
+@media(min-width:768px)
+{
+    #brandname{
+        font-size: 32px;
+    }
+}
+@media(max-width:768px)
+{
+    #brandname{
+        font-size: 1.3rem;
+    }
+}
