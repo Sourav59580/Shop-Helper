@@ -7,6 +7,10 @@ const Schema = mongoose.Schema;
          type : String,
          required : true
      },
+     imgsrc : {
+        type : String,
+        required : true
+     },
      date : {
          type : Date,
          default : Date.now
