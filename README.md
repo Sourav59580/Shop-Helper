@@ -8,7 +8,7 @@
 
 ## Mobile
 
-<img src='./images/Screenshot (5).png' width='50%'>
+<img src='./images/Screenshot (5).png' width='40%'>
 
 
 ## Quick Start
